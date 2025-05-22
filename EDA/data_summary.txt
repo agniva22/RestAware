@@ -1,0 +1,780 @@
+Summary for P1:
+Total Entries: 329
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Supine to Prone', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             202
+Prone              116
+Rolling Over         6
+Supine to Side       3
+Supine to Prone      2
+Status Counts:
+Status
+Sleeping          116
+Deep Breathing     83
+No Move            62
+Low Breathing      54
+Major Movement      6
+Posture Change      5
+Deep Sleep          3
+Movement Value Stats:
+count    3.290000e+02
+mean    -3.692652e+16
+std      6.366899e+16
+min     -1.463714e+17
+25%     -1.463714e+17
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P2:
+Total Entries: 345
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Side to Supine', 'Rolling Over', 'Side to Prone', 'Supine to Prone', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             222
+Prone               89
+Rolling Over        12
+Side Sleeping        8
+Supine to Prone      5
+Supine to Side       4
+Side to Supine       3
+Side to Prone        2
+Status Counts:
+Status
+Sleeping          97
+Low Breathing     90
+Deep Breathing    71
+No Move           58
+Posture Change    14
+Major Movement    12
+Deep Sleep         3
+Movement Value Stats:
+count    3.450000e+02
+mean    -3.012281e+16
+std      5.926140e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P3:
+Total Entries: 511
+Unique Postures: ['Supine', 'Prone', 'Supine to Prone', 'Rolling Over', 'Supine to Side', 'Side Sleeping']
+Posture Counts:
+Posture
+Supine             386
+Prone              115
+Rolling Over         5
+Supine to Prone      2
+Side Sleeping        2
+Supine to Side       1
+Status Counts:
+Status
+Deep Breathing    150
+No Move           149
+Sleeping          117
+Low Breathing      84
+Major Movement      5
+Deep Sleep          3
+Posture Change      3
+Movement Value Stats:
+count    5.110000e+02
+mean    -4.296617e+16
+std      6.672060e+16
+min     -1.463714e+17
+25%     -1.463714e+17
+50%     -4.268382e-22
+75%      1.733822e-21
+max      1.000000e+02
+--------------------------------------------------
+Summary for P4:
+Total Entries: 395
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Side to Supine', 'Side to Prone', 'Side Sleeping', 'Supine to Side']
+Posture Counts:
+Posture
+Supine            275
+Prone              90
+Rolling Over       16
+Side Sleeping       5
+Side to Supine      3
+Side to Prone       3
+Supine to Side      3
+Status Counts:
+Status
+Low Breathing     113
+Sleeping           95
+Deep Breathing     89
+No Move            70
+Major Movement     16
+Posture Change      9
+Deep Sleep          3
+Movement Value Stats:
+count    3.950000e+02
+mean    -3.297989e+16
+std      6.123015e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P5:
+Total Entries: 443
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Supine to Side', 'Side Sleeping', 'Side to Supine', 'Side to Prone', 'Supine to Prone']
+Posture Counts:
+Posture
+Supine             321
+Prone              103
+Rolling Over         6
+Supine to Side       4
+Side Sleeping        4
+Side to Supine       3
+Side to Prone        1
+Supine to Prone      1
+Status Counts:
+Status
+Deep Breathing    115
+Low Breathing     114
+Sleeping          107
+No Move            89
+Posture Change      9
+Major Movement      6
+Deep Sleep          3
+Movement Value Stats:
+count    4.430000e+02
+mean    -3.799709e+16
+std      6.424348e+16
+min     -1.463714e+17
+25%     -1.463714e+17
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P6:
+Total Entries: 352
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Supine to Prone', 'Side Sleeping', 'Side to Supine', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             229
+Prone              103
+Rolling Over        12
+Side Sleeping        3
+Supine to Prone      2
+Supine to Side       2
+Side to Supine       1
+Status Counts:
+Status
+Sleeping          106
+Low Breathing      93
+Deep Breathing     73
+No Move            60
+Major Movement     12
+Posture Change      5
+Deep Sleep          3
+Movement Value Stats:
+count    3.520000e+02
+mean    -3.035543e+16
+std      5.942851e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P7:
+Total Entries: 387
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Side to Supine', 'Rolling Over', 'Supine to Prone', 'Side to Prone', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             261
+Prone              100
+Rolling Over        13
+Side Sleeping        6
+Side to Supine       3
+Side to Prone        2
+Supine to Prone      1
+Supine to Side       1
+Status Counts:
+Status
+Sleeping          106
+Low Breathing     104
+Deep Breathing     91
+No Move            63
+Major Movement     13
+Posture Change      7
+Deep Sleep          3
+Movement Value Stats:
+count    3.870000e+02
+mean    -3.441808e+16
+std      6.215465e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P8:
+Total Entries: 415
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Supine to Prone', 'Rolling Over', 'Side to Supine', 'Side to Prone', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             293
+Prone               95
+Rolling Over        14
+Side Sleeping        6
+Supine to Prone      3
+Side to Supine       2
+Side to Prone        1
+Supine to Side       1
+Status Counts:
+Status
+Low Breathing     115
+Deep Breathing    102
+Sleeping          101
+No Move            73
+Major Movement     14
+Posture Change      7
+Deep Sleep          3
+Movement Value Stats:
+count    4.150000e+02
+mean    -3.597562e+16
+std      6.309636e+16
+min     -1.463714e+17
+25%     -1.067095e-21
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P9:
+Total Entries: 362
+Unique Postures: ['Supine', 'Prone', 'Supine to Prone', 'Rolling Over', 'Side to Prone', 'Supine to Side', 'Side Sleeping', 'Side to Supine']
+Posture Counts:
+Posture
+Supine             237
+Prone               88
+Rolling Over        19
+Supine to Prone      5
+Side Sleeping        5
+Supine to Side       3
+Side to Supine       3
+Side to Prone        2
+Status Counts:
+Status
+Sleeping          93
+Low Breathing     92
+Deep Breathing    74
+No Move           68
+Major Movement    19
+Posture Change    13
+Deep Sleep         3
+Movement Value Stats:
+count    3.620000e+02
+mean    -2.992123e+16
+std      5.910993e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P10:
+Total Entries: 330
+Unique Postures: ['Supine', 'Prone', 'Supine to Side', 'Side Sleeping', 'Side to Supine', 'Rolling Over', 'Supine to Prone', 'Side to Prone']
+Posture Counts:
+Posture
+Supine             208
+Prone               92
+Rolling Over        11
+Side Sleeping        7
+Supine to Side       6
+Side to Supine       3
+Supine to Prone      2
+Side to Prone        1
+Status Counts:
+Status
+Sleeping          99
+Low Breathing     83
+Deep Breathing    73
+No Move           49
+Posture Change    12
+Major Movement    11
+Deep Sleep         3
+Movement Value Stats:
+count    3.300000e+02
+mean    -3.237913e+16
+std      6.084562e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P11:
+Total Entries: 181
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Rolling Over', 'Side to Prone', 'Side to Supine', 'Supine to Side', 'Supine to Prone']
+Posture Counts:
+Posture
+Prone              144
+Supine              13
+Rolling Over        10
+Side Sleeping        5
+Side to Supine       4
+Side to Prone        3
+Supine to Side       1
+Supine to Prone      1
+Status Counts:
+Status
+Sleeping          149
+Major Movement     10
+Posture Change      9
+Low Breathing       5
+No Move             5
+Deep Sleep          3
+Movement Value Stats:
+count    1.810000e+02
+mean     9.303867e+00
+std      2.332265e+01
+min     -1.707353e-21
+25%      2.000000e+00
+50%      2.000000e+00
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P17:
+Total Entries: 493
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Supine to Side', 'Side to Supine', 'Rolling Over', 'Supine to Prone']
+Posture Counts:
+Posture
+Supine             370
+Prone               97
+Side Sleeping       13
+Supine to Side       4
+Side to Supine       4
+Rolling Over         4
+Supine to Prone      1
+Status Counts:
+Status
+Low Breathing     132
+Deep Breathing    122
+No Move           112
+Sleeping          110
+Posture Change      9
+Deep Sleep          4
+Major Movement      4
+Movement Value Stats:
+count    4.930000e+02
+mean    -3.622173e+16
+std      6.322911e+16
+min     -1.463714e+17
+25%     -1.707353e-21
+50%      1.733822e-21
+75%      6.749794e-21
+max      1.000000e+02
+--------------------------------------------------
+Summary for P16:
+Total Entries: 444
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Side to Supine', 'Rolling Over', 'Side to Prone', 'Supine to Prone', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             316
+Prone               82
+Rolling Over        21
+Side Sleeping       11
+Side to Supine       7
+Supine to Prone      3
+Supine to Side       3
+Side to Prone        1
+Status Counts:
+Status
+Low Breathing     112
+Deep Breathing    110
+Sleeping           93
+No Move            90
+Major Movement     21
+Posture Change     14
+Deep Sleep          4
+Movement Value Stats:
+count    4.440000e+02
+mean    -3.626319e+16
+std      6.326048e+16
+min     -1.463714e+17
+25%     -1.707353e-21
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P19:
+Total Entries: 474
+Unique Postures: ['Supine', 'Prone', 'Side Sleeping', 'Supine to Side', 'Rolling Over', 'Supine to Prone', 'Side to Supine', 'Side to Prone']
+Posture Counts:
+Posture
+Supine             345
+Prone              104
+Side Sleeping       10
+Supine to Side       6
+Rolling Over         5
+Supine to Prone      2
+Side to Supine       1
+Side to Prone        1
+Status Counts:
+Status
+Low Breathing     126
+No Move           116
+Sleeping          114
+Deep Breathing    100
+Posture Change     10
+Major Movement      5
+Deep Sleep          3
+Movement Value Stats:
+count    4.740000e+02
+mean    -3.088004e+16
+std      5.978226e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P12:
+Total Entries: 252
+Unique Postures: ['Supine', 'Prone', 'Side to Prone', 'Side to Supine', 'Rolling Over', 'Supine to Prone', 'Side Sleeping', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             131
+Prone               72
+Rolling Over        18
+Side Sleeping       13
+Side to Supine       5
+Side to Prone        5
+Supine to Side       5
+Supine to Prone      3
+Status Counts:
+Status
+Sleeping          85
+Low Breathing     52
+No Move           41
+Deep Breathing    35
+Posture Change    18
+Major Movement    18
+Deep Sleep         3
+Movement Value Stats:
+count    2.520000e+02
+mean    -2.032936e+16
+std      5.072044e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P13:
+Total Entries: 415
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Supine to Side', 'Side Sleeping', 'Supine to Prone', 'Side to Supine']
+Posture Counts:
+Posture
+Supine             292
+Prone               91
+Side Sleeping       16
+Rolling Over         9
+Supine to Side       4
+Supine to Prone      2
+Side to Supine       1
+Status Counts:
+Status
+Low Breathing     111
+Sleeping          107
+No Move           103
+Deep Breathing     74
+Major Movement      9
+Posture Change      7
+Deep Sleep          4
+Movement Value Stats:
+count    4.150000e+02
+mean    -2.609996e+16
+std      5.609512e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P21:
+Total Entries: 259
+Unique Postures: ['Supine', 'Prone', 'Side to Prone', 'Supine to Prone', 'Supine to Side', 'Side Sleeping', 'Rolling Over', 'Side to Supine']
+Posture Counts:
+Posture
+Prone              178
+Side Sleeping       21
+Supine              15
+Rolling Over        13
+Supine to Prone     12
+Side to Prone        9
+Supine to Side       7
+Side to Supine       4
+Status Counts:
+Status
+Sleeping          199
+Posture Change     32
+Major Movement     13
+Deep Sleep          9
+Low Breathing       3
+No Move             3
+Movement Value Stats:
+count    2.590000e+02
+mean     1.037838e+01
+std      2.006664e+01
+min     -1.707353e-21
+25%      2.000000e+00
+50%      2.000000e+00
+75%      1.000000e+01
+max      1.000000e+02
+--------------------------------------------------
+Summary for P14:
+Total Entries: 460
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Supine to Prone', 'Side to Prone', 'Side to Supine', 'Side Sleeping', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             342
+Prone               88
+Rolling Over        13
+Side Sleeping        8
+Supine to Prone      5
+Side to Supine       2
+Side to Prone        1
+Supine to Side       1
+Status Counts:
+Status
+Low Breathing     127
+No Move           109
+Deep Breathing    103
+Sleeping           96
+Major Movement     13
+Posture Change      9
+Deep Sleep          3
+Movement Value Stats:
+count    4.600000e+02
+mean    -3.277447e+16
+std      6.108347e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P22:
+Total Entries: 227
+Unique Postures: ['Supine', 'Prone', 'Supine to Side', 'Supine to Prone', 'Rolling Over', 'Side Sleeping', 'Side to Supine']
+Posture Counts:
+Posture
+Prone              112
+Rolling Over        52
+Side Sleeping       20
+Supine              18
+Supine to Prone     12
+Supine to Side       9
+Side to Supine       4
+Status Counts:
+Status
+Sleeping          132
+Major Movement     52
+Posture Change     25
+Deep Sleep          6
+Low Breathing       6
+No Move             6
+Movement Value Stats:
+count    2.270000e+02
+mean     2.587225e+01
+std      3.742126e+01
+min     -1.707353e-21
+25%      2.000000e+00
+50%      2.000000e+00
+75%      3.300000e+01
+max      1.000000e+02
+--------------------------------------------------
+Summary for P15:
+Total Entries: 450
+Unique Postures: ['Supine', 'Prone', 'Side to Supine', 'Rolling Over', 'Side Sleeping', 'Side to Prone', 'Supine to Prone']
+Posture Counts:
+Posture
+Supine             329
+Prone               91
+Rolling Over        17
+Supine to Prone      5
+Side Sleeping        5
+Side to Supine       2
+Side to Prone        1
+Status Counts:
+Status
+Low Breathing     123
+No Move           108
+Sleeping           96
+Deep Breathing     95
+Major Movement     17
+Posture Change      8
+Deep Sleep          3
+Movement Value Stats:
+count    4.500000e+02
+mean    -3.090063e+16
+std      5.980022e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P20:
+Total Entries: 349
+Unique Postures: ['Supine', 'Prone', 'Supine to Side', 'Rolling Over', 'Side to Prone', 'Supine to Prone', 'Side Sleeping', 'Side to Supine']
+Posture Counts:
+Posture
+Supine             224
+Prone               81
+Rolling Over        27
+Side Sleeping        6
+Side to Prone        5
+Supine to Side       4
+Supine to Prone      1
+Side to Supine       1
+Status Counts:
+Status
+Sleeping          87
+Low Breathing     84
+Deep Breathing    73
+No Move           64
+Major Movement    27
+Posture Change    11
+Deep Sleep         3
+Movement Value Stats:
+count    3.490000e+02
+mean    -3.061637e+16
+std      5.961697e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P18:
+Total Entries: 391
+Unique Postures: ['Supine', 'Prone', 'Rolling Over', 'Side Sleeping', 'Side to Prone', 'Supine to Prone', 'Side to Supine']
+Posture Counts:
+Posture
+Supine             268
+Prone               97
+Rolling Over         9
+Side Sleeping        8
+Supine to Prone      5
+Side to Supine       3
+Side to Prone        1
+Status Counts:
+Status
+Deep Breathing    106
+Sleeping          105
+Low Breathing      84
+No Move            75
+Major Movement      9
+Posture Change      9
+Deep Sleep          3
+Movement Value Stats:
+count    3.910000e+02
+mean    -3.968125e+16
+std      6.514947e+16
+min     -1.463714e+17
+25%     -1.463714e+17
+50%      1.733822e-21
+75%      2.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P23:
+Total Entries: 328
+Unique Postures: ['Supine', 'Supine to Side', 'Side Sleeping', 'Prone', 'Side to Supine', 'Rolling Over', 'Supine to Prone', 'Side to Prone']
+Posture Counts:
+Posture
+Supine             207
+Prone               91
+Rolling Over        11
+Side Sleeping        7
+Supine to Side       6
+Side to Supine       3
+Supine to Prone      2
+Side to Prone        1
+Status Counts:
+Status
+Sleeping          98
+Low Breathing     83
+Deep Breathing    73
+No Move           49
+Posture Change    12
+Major Movement    11
+Deep Sleep         2
+Movement Value Stats:
+count    3.280000e+02
+mean    -3.257656e+16
+std      6.097853e+16
+min     -1.463714e+17
+25%     -4.268382e-22
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
+Summary for P24:
+Total Entries: 267
+Unique Postures: ['Supine', 'Prone', 'Supine to Prone', 'Rolling Over', 'Supine to Side']
+Posture Counts:
+Posture
+Supine             203
+Prone               56
+Rolling Over         5
+Supine to Prone      2
+Supine to Side       1
+Status Counts:
+Status
+No Move           77
+Deep Breathing    76
+Sleeping          56
+Low Breathing     47
+Major Movement     5
+Deep Sleep         3
+Posture Change     3
+Movement Value Stats:
+count    2.670000e+02
+mean    -4.166377e+16
+std      6.617337e+16
+min     -1.463714e+17
+25%     -1.463714e+17
+50%     -4.268382e-22
+75%      1.733822e-21
+max      1.000000e+02
+--------------------------------------------------
+Summary for P25:
+Total Entries: 266
+Unique Postures: ['Prone', 'Supine', 'Rolling Over', 'Supine to Side', 'Side Sleeping', 'Side to Supine']
+Posture Counts:
+Posture
+Supine            188
+Prone              67
+Rolling Over        5
+Supine to Side      3
+Side Sleeping       2
+Side to Supine      1
+Status Counts:
+Status
+Sleeping          69
+Deep Breathing    67
+Low Breathing     65
+No Move           54
+Major Movement     5
+Posture Change     4
+Deep Sleep         2
+Movement Value Stats:
+count    2.660000e+02
+mean    -3.686798e+16
+std      6.365850e+16
+min     -1.463714e+17
+25%     -1.097786e+17
+50%      1.733822e-21
+75%      1.000000e+00
+max      1.000000e+02
+--------------------------------------------------
