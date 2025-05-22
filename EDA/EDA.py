@@ -5,7 +5,7 @@ import seaborn as sns
 from pathlib import Path
 from datetime import datetime, timedelta
 
-file_path = "./decoded_radar_sleep_data.csv"
+file_path = "./decoded_sleep_data.csv"
 df = pd.read_csv(file_path)
 
 start_time = datetime.now()
