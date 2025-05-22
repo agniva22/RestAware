@@ -1,0 +1,14 @@
+Posture Classification Results:
+                      Accuracy    ROC  F1 Score  Time Taken
+Model                                                                          
+KNeighborsClassifier      0.92    0.95     0.91        0.03
+LGBMClassifier            0.8     0.83     0.81        0.06
+DecisionTreeClassifier    0.81    0.8      0.79        0.01
+
+
+Best Model: KNeighborsClassifier
+Accuracy: 0.9163623082542002
+F1 Score: 0.9118863145096031
+ROC: 0.9518543284158535
+
+
