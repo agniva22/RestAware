@@ -2,11 +2,11 @@
 
 # Physical Parameters Monitoring using 24GHz FMCW Radar
 
-This Arduino-based project captures physical parameters such as presence, motion, and potential breathing activity using a 24GHz FMCW radar module. It is built using the `FallDetectionRadar` library and is designed for use in applications like non-contact sleep monitoring or human presence detection.
+This Arduino-based project captures physical parameters such as presence, motion, and potential breathing activity using a 24GHz FMCW radar module. It is built using the `FallDetectionRadar' library and is designed for use in applications like non-contact sleep monitoring or human presence detection.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Detects human presence and motion using radar
 - Outputs raw and processed radar data over Serial
@@ -14,7 +14,7 @@ This Arduino-based project captures physical parameters such as presence, motion
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 
@@ -27,7 +27,7 @@ This Arduino-based project captures physical parameters such as presence, motion
 
 ---
 
-## 🔧 Hardware Requirements
+## Hardware Requirements
 
 - **24GHz FMCW Radar Module** (e.g., Human Static Presence Radar)
 - **Arduino UNO / ESP32 / Compatible MCU**
@@ -35,7 +35,7 @@ This Arduino-based project captures physical parameters such as presence, motion
 
 ---
 
-## 🛠️ Software Requirements
+## Software Requirements
 
 - [Arduino IDE](https://www.arduino.cc/en/software) (version >= 1.8.0)
 - Compatible board drivers (e.g., for ESP32)
@@ -43,14 +43,9 @@ This Arduino-based project captures physical parameters such as presence, motion
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
-### 1. Clone or Download this Repository
-
-```bash
-git clone https://github.com/yourusername/physical-parameters-radar.git
-cd physical-parameters-radar
-````
+### 1. Download physical_parameters
 
 ### 2. Open the Project
 
@@ -68,7 +63,7 @@ cd physical-parameters-radar
 
 ---
 
-## 📊 Output
+## Output
 
 The radar sends interpreted data over Serial. You can view the output using:
 
@@ -86,7 +81,7 @@ Breathing Detected: TRUE
 
 ---
 
-## 📚 How it Works
+## How it Works
 
 The `FallDetectionRadar` class handles:
 
@@ -96,9 +91,4 @@ The `FallDetectionRadar` class handles:
 
 
 ---
-
-## 👨‍💻 Author
-
-* Developed by \[Bhanu , Agniva]
-* For contributions, issues, or suggestions, feel free to open a GitHub Issue or Pull Request.
 
