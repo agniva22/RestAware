@@ -25,9 +25,8 @@
 
 - **Goal**: Classify sleep postures using machine learning and neural networks.
 - **Contents**:
-  - `lazy_classification.py`: Compares multiple ML models using LazyPredict.
-  - `neural_net_posture.py`: Uses a PyTorch neural network to classify sleep posture.
-  - Output: performance reports, confusion matrix images, and best model insights.
+  - `ML_classifier/classification.py`: Compares multiple ML models using LazyPredict.
+  - `NN_classifier/classification.py`: Uses a PyTorch neural network to classify sleep posture.
 
 ### `sleep_summary_generation/`
 
@@ -47,12 +46,4 @@
   - File generation for raw sleep data
 
 ---
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/RestAware.git
-cd RestAware
 
