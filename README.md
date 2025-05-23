@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### `Dataset/`
 
@@ -35,7 +35,7 @@
   - `mistral.py`: [Mistral 7B Instruct](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)
   - `llama.py`: [LLaMA-2 7B Chat](https://huggingface.co/NousResearch/Llama-2-7b-chat-hf)
   - `falcon.py`: [Falcon-7B-Instruct](https://huggingface.co/tiiuae/falcon-7b-instruct)
-- Outputs high-level sleep summaries in plain English.
+- Outputs high-level sleep summaries.
 
 ### `physical_parameters/`
 
