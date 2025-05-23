@@ -4,7 +4,7 @@ This repository contains raw sensor data collected from 25 individuals during sl
 
 ## Dataset Overview
 
-- **File Name:** `raw_sleep_data.csv`
+- **File Names:** `radar_*.csv` for each individuals
 - **Participants:** 25 individuals
 - **Duration:** 10 minutes per participant
 - **Format:** Aggregated CSV (all participants' data combined)
