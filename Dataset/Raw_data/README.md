@@ -1,6 +1,6 @@
 # RAW Sleep Posture Dataset
 
-This repository contains raw sensor data collected from 25 individuals during sleep, each observed over a 10-minute period. The data is aggregated in a single CSV file: `raw_sleep_data.csv`.
+This repository contains raw sensor data collected from 25 individuals during sleep, each observed over a 10-minute period. The data are in a CSV file for each participants: `radar_*.csv`.
 
 ## Dataset Overview
 
