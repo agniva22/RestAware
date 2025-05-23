@@ -1,4 +1,0 @@
-Posture Classification Results (Neural Network):
-Accuracy: 0.78
-F1 Score: 0.77
-ROC AUC: 0.79
