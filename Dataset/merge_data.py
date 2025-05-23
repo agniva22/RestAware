@@ -25,4 +25,4 @@ if not df_list:
     raise ValueError("No valid CSV.")
 
 merged_df = pd.concat(df_list, ignore_index=True)
-merged_df.to_csv("./collected_data.csv", index=False)
+merged_df.to_csv("./raw_sleep_data.csv", index=False)
