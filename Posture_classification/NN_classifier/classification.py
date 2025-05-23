@@ -109,7 +109,6 @@ except:
 
 print("\nPosture Classification Results:")
 print(f"{'Accuracy:':<20} {accuracy:.4f}")
-print(f"{'Balanced Accuracy:':<20} {balanced_acc:.4f}")
 print(f"{'F1 Score:':<20} {f1:.4f}")
 print(f"{'ROC AUC:':<20} {roc_auc if roc_auc == 'N/A' else f'{roc_auc:.4f}'}")
 
