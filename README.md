@@ -10,7 +10,7 @@
 
 - **Description**: Contains all raw and decoded sleep data.
 - **Contents**:
-  - `raw/`: Unprocessed sleep monitoring data captured via radar sensors.
+  - `raw_sleep_data.csv`: Unprocessed sleep monitoring data captured via radar sensors.
   - `decoded_sleep_data.csv`: Preprocessed and posture-labeled version of raw data for downstream analysis.
 
 ### `EDA/`
