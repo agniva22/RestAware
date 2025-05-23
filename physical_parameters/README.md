@@ -19,9 +19,9 @@ This Arduino-based project captures physical parameters such as presence, motion
 ```
 
 ├── physical\_parameters\_mmhg.ino     # Main Arduino sketch
-├── falldetectionradar.h             # Radar module interface header
-├── falldetectionradar.cpp           # Radar communication and processing logic
-└── README.md                        # Project documentation
+├── falldetectionradar.h               # Radar module interface header
+├── falldetectionradar.cpp             # Radar communication and processing logic
+└── README.md                          # Project documentation
 
 ````
 
