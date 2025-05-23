@@ -7,17 +7,22 @@ This repository contains Python scripts for processing raw sleep sensor data col
 
 ---
 
-## 📂 Scripts Overview
+## Scripts Overview
 
 ### `merge_data.py`
 
 Merges individual raw CSV files (one per participant) into a single aggregated dataset.
 
-#### ✅ Features
+
+### `decode_data.py`
+
+Decode raw CSV files into a sleep posture dataset.
+
+#### Features
 - Automatically assigns a unique participant ID
 - Concatenates all data into one clean CSV
 
-#### 🚀 Usage
+#### Usage
 
 ```bash
 python merge_data.py --input_dir path/to/raw_files --output_file raw_sleep_data.csv
