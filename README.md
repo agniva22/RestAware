@@ -1,4 +1,4 @@
-# RestAware
+# RestAware: Non-Invasive Sleep Monitoring Using FMCW Radar and AI-Generated Summaries
 
 **RestAware** is a comprehensive framework for smart and non-invasive sleep monitoring using a 24GHz FMCW radar sensor. It integrates raw data collection, preprocessing, posture classification, exploratory analysis, and sleep summary generation using large language models (LLMs). This repository supports healthcare researchers and developers in building intelligent, privacy-preserving sleep monitoring systems.
 
