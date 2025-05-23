@@ -20,7 +20,7 @@ This raw dataset is ideal for:
 
 ## License
 
-> *(Optional: Specify your license, such as MIT, CC BY 4.0, etc.)*
+> This project is licensed under the [MIT License](LICENSE).
 
 ---
 
