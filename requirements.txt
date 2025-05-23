@@ -1,0 +1,11 @@
+bert_score==0.3.13
+evaluate==0.4.3
+lazypredict==0.2.15
+matplotlib==3.10.3
+nltk==3.9.1
+numpy==2.2.6
+pandas==2.2.3
+scikit_learn==1.6.1
+seaborn==0.13.2
+torch==2.6.0
+transformers==4.49.0
