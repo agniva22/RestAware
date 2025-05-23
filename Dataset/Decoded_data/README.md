@@ -20,7 +20,7 @@ This dataset is suitable for research and development in:
 
 ## Notes
 
-- The data is aggregated. To analyze individual participants, you may need to filter by `participant_id`.
+- The data is aggregated. To analyze individual participants, you may need to filter by `Name`.
 - Ensure proper preprocessing before applying machine learning models.
 
 ## License
