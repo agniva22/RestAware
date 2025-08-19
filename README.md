@@ -11,7 +11,6 @@ RestAware is a comprehensive framework for smart and non-invasive sleep monitori
 - **Description**: Contains all raw and decoded sleep data.
 - **Contents**:
   - `radar_*.csv`: Unprocessed sleep monitoring data captured via radar sensor for each participants.
-  - `decoded_sleep_data.csv`: Preprocessed and posture-labeled version of raw data for downstream analysis.
 
 ### `EDA/`
 
